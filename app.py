@@ -15,7 +15,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 if "optimized_resume" not in st.session_state:
     st.session_state.optimized_resume = ""
 
-GEMINI_API_KEY = "AIzaSyBMbsFIaYG5WQKCwuWEcyCYZgxeTemQD6Q"
+GEMINI_API_KEY = "AIzaSyBMbsFIaYG5WQ"
 
 client = genai.Client(
     api_key=GEMINI_API_KEY
