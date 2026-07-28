@@ -1,0 +1,23 @@
+JOB TITLE: Senior AI & Full-Stack Software Engineer
+COMPANY: InnovateAI Labs
+LOCATION: Remote / Hybrid
+
+ABOUT THE ROLE:
+InnovateAI Labs is seeking an exceptional AI & Full-Stack Software Engineer to build next-generation intelligent applications. In this role, you will design robust web platforms, implement machine learning models, optimize database systems, and collaborate with cross-functional engineering teams.
+
+KEY RESPONSIBILITIES:
+- Architect and develop scalable web applications using Python, JavaScript, HTML, CSS, and SQL databases.
+- Design, train, and deploy Machine Learning and Artificial Intelligence models for data processing and predictive analytics.
+- Optimize core data structures and algorithms to ensure high efficiency and low-latency system performance.
+- Collaborate with engineering teams using Git and GitHub for version control, code reviews, and continuous delivery.
+- Integrate RESTful APIs and modern frontend interfaces.
+
+REQUIREMENTS & QUALIFICATIONS:
+- Bachelor's degree in Computer Science, Software Engineering, or related technical field.
+- 3+ years of professional experience in Python, Java, or C++.
+- Strong proficiency with SQL databases, Data Structures, Algorithms, and System Design.
+- Practical experience with Machine Learning, Artificial Intelligence, and Git/GitHub.
+- Excellent problem-solving, communication, and team collaboration skills.
+
+NICE TO HAVE:
+- Experience with embedded systems, signal processing, or cloud deployments.
